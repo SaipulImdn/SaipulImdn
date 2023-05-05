@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/syaiful imanudin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syaiful imanudin" height="30" width="40" /></a>
 <a href="https://instagram.com/saipulimdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saipulimdn" height="30" width="40" /></a>
+<a href="https://discord.gg/#4011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4011" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saipulimdn&show_icons=true&locale=en" alt="saipulimdn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saipulimdn&" alt="saipulimdn" /></p>
+
