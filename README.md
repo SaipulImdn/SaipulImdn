@@ -5,7 +5,7 @@
 
 - 🔭 I'm work for **backend developer and frontend developer**
 
-- 🌱 I’m currently learning **Golang and Javascript**
+- 🌱 I’m currently learning **Golang and Laravel**
 
 - 💬 Ask me about **https://saipulimdn.vercel.app/**
 
