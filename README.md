@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Syaiful Imanudin from Indonesia<br><br>- 🔭  I'm work for backend developer and frontend developer<br>- 📚 I’m currently learning Javascript and Laravel <br>- I am quite proficient in the golang programming language</p>
+<p align="left">I'm Syaiful Imanudin from Indonesia<br><br>- 🔭  I'm work for backend developer and frontend developer<br>- 📚 I’m currently learning Javascript and Laravel <br>- I am quite proficient in the golang programming language <br>- I am very excited to keep up with technological developments</p>
 
 ###
 
