@@ -13,15 +13,3 @@
 ###
 
 <p align="left">I'm Syaiful Imanudin from Indonesia<br><br>• 👨🏻‍💻  I'm work for backend developer and frontend developer<br>• 📚 I’m currently learning Javascript and Laravel <br>• 🏆 I am quite proficient in the golang programming language <br>• 💻 I am very excited to keep up with technological developments</p>
-
-###
-
-<div align="left">
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=SaipulImdn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=yellow&hide_border=false"
-        height="150"
-        alt="languages graph"
-    />
-</div>
-
-###
