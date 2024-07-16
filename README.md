@@ -1,14 +1,8 @@
-<div align="center">
-  <img height="150" src="https://tenor.com/view/jrue-holiday-milwaukee-bucks-21-gif-20621884"  />
-</div>
+
 
 ###
 
 <h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">✋🏻 About Me ✋🏻</h3>
 
 ###
 
