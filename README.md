@@ -6,7 +6,7 @@ I'm a passionate **Software Engineer** with 2+ years of experience in both profe
 ### 🛠️ Tech Stack:
 - **Backend**: Golang, Java, C#, TypeScript, PHP
 - **Frontend**: React, TailwindCSS, Bootstrap, Next.js, Astro
-- **Databases**: MySQL, PostgreSQL, Redis
+- **Databases**: MySQL, PostgreSQL, Redis, Microsoft SQL Server, MongoDB
 - **Message Brokers**: RabbitMQ, Kafka
 - **Other Tools**: Docker, Kubernetes, GCP, AWS
 
