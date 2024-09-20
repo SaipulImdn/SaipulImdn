@@ -4,7 +4,7 @@ Hi there! 👋
 I'm a passionate **Software Engineer** with 2+ years of experience in both professional and personal projects. I have a strong foundation in both **backend** and **frontend** development, giving me the flexibility to work across the full stack.
 
 ### 🛠️ Tech Stack:
-- **Backend**: Golang, Java, C#, TypeScript, PHP
+- **Backend**: Golang, Java, C#, TypeScript, Python, PHP
 - **Frontend**: React, TailwindCSS, Bootstrap, Next.js, Astro
 - **Databases**: MySQL, PostgreSQL, Redis, Microsoft SQL Server, MongoDB
 - **Message Brokers**: RabbitMQ, Kafka
