@@ -24,4 +24,4 @@ I’m always excited about new challenges and staying up-to-date with the latest
 ---
 
 Check out some of the things I'm building!
-- [Convogenius](https://convogenius.my.id)
+- [Convogenius AI Platform](https://convogenius.my.id)
