@@ -20,3 +20,8 @@ I thrive on solving complex problems and enjoy working on scalable and maintaina
 - Utilize cloud platforms for deployment and infrastructure
 
 I’m always excited about new challenges and staying up-to-date with the latest tech trends. Let’s build something amazing together! 😄
+
+---
+
+Check out some of the things I'm building!
+- [Convogenius](https://convogenius.my.id)
