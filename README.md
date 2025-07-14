@@ -1,27 +1,71 @@
-# About Me
 
-Hi there! 👋  
-I'm a passionate **Software Engineer** with 2+ years of experience in both professional and personal projects. I have a strong foundation in both **backend** and **frontend** development, giving me the flexibility to work across the full stack.
+```rust
+// =========================================
+//         Syaiful Imanudin :: Biodata.rs
+// =========================================
+//
+// Compiling passion, curiosity, and code...
+//
 
-### 🛠️ Tech Stack:
-- **Backend**: Golang, Java, C#, TypeScript, Python, PHP
-- **Frontend**: React, TailwindCSS, Bootstrap, Next.js, Astro
-- **Databases**: MySQL, PostgreSQL, Redis, Microsoft SQL Server, MongoDB
-- **Message Brokers**: RabbitMQ, Kafka
-- **Other Tools**: Docker, Kubernetes, GCP, AWS
+#[derive(Debug)]
+struct Engineer {
+    name: &'static str,
+    experience: u8,
+    stack: TechStack,
+    passions: Vec<&'static str>,
+    motto: &'static str,
+}
 
-I thrive on solving complex problems and enjoy working on scalable and maintainable systems. Whether it's low-level languages like **C#** or high-level ones like **JavaScript**, I love exploring both worlds.
+#[derive(Debug)]
+struct TechStack {
+    backend: Vec<&'static str>,
+    frontend: Vec<&'static str>,
+    databases: Vec<&'static str>,
+    message_brokers: Vec<&'static str>,
+    tools: Vec<&'static str>,
+}
 
-### 🚀 What I Do:
-- Design and develop APIs and microservices
-- Build efficient and scalable backend systems
-- Create responsive and user-friendly frontend applications
-- Implement message brokers for distributed systems using RabbitMQ and Kafka
-- Utilize cloud platforms for deployment and infrastructure
+fn main() {
+    let syaiful = Engineer {
+        name: "Syaiful Imanudin",
+        experience: 3, // years
+        stack: TechStack {
+            backend: vec!["Go", "Java", "C#", "TypeScript", "Python", "PHP"],
+            frontend: vec!["React", "TailwindCSS", "Bootstrap", "Next.js", "Astro"],
+            databases: vec!["MySQL", "PostgreSQL", "Redis", "Microsoft SQL Server", "MongoDB"],
+            message_brokers: vec!["RabbitMQ", "Kafka"],
+            tools: vec!["Docker", "Kubernetes", "GCP", "AWS"],
+        },
+        passions: vec![
+            "Designing robust APIs & microservices",
+            "Building scalable backend architectures",
+            "Crafting beautiful, responsive UIs",
+            "Solving distributed systems challenges",
+            "Automating cloud deployments & DevOps",
+        ],
+        motto: "Always ready for new challenges and building something extraordinary! 🚀",
+    };
 
-I’m always excited about new challenges and staying up-to-date with the latest tech trends. Let’s build something amazing together! 😄
-
----
-
-Check out some of the things I'm building!
-- [Convogenius AI Platform](https://convogenius.my.id)
+    println!("\nfn main() {{");
+    println!("    // 👋 Hello, world!");
+    println!("    let engineer = {{");
+    println!("        name: {:?},", syaiful.name);
+    println!("        experience: {}+ years,", syaiful.experience);
+    println!("        tech_stack: {{");
+    println!("            backend: {:?},", syaiful.stack.backend);
+    println!("            frontend: {:?},", syaiful.stack.frontend);
+    println!("            databases: {:?},", syaiful.stack.databases);
+    println!("            message_brokers: {:?},", syaiful.stack.message_brokers);
+    println!("            tools: {:?}", syaiful.stack.tools);
+    println!("        }},");
+    println!("        passions: [");
+    for passion in syaiful.passions.iter() {
+        println!("            - {}", passion);
+    }
+    println!("        ],");
+    println!("        motto: {}", syaiful.motto);
+    println!("    }}");
+    println!("}}\n");
+    println!("// Let's connect and build something awesome together! ✨");
+}
+```
