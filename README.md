@@ -30,7 +30,7 @@ fn main() {
         name: "Syaiful Imanudin",
         experience: 3, // years
         stack: TechStack {
-            backend: vec!["Go", "Java", "C#", "TypeScript", "Python", "PHP"],
+            backend: vec!["Go", "Java", "C#", "TypeScript", "Python", "Rust", "PHP"],
             frontend: vec!["React", "TailwindCSS", "Bootstrap", "Next.js", "Astro"],
             databases: vec!["MySQL", "PostgreSQL", "Redis", "Microsoft SQL Server", "MongoDB"],
             message_brokers: vec!["RabbitMQ", "Kafka"],
